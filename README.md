@@ -34,11 +34,12 @@ run.sh
 
 实例：
 
-`2022_7/addr_test1qra5v69zswvp09t76p3x57zr80g45sn7a024lx2utsczplhdf5f65ywwsaqzwkp939sxpa40afnezx8jf09ersmz526qdhfh0j/2022_07_14_15_44_38`
+```2022_7/addr_test1qra5v69zswvp09t76p3x57zr80g45sn7a024lx2utsczplhdf5f65ywwsaqzwkp939sxpa40afnezx8jf09ersmz526qdhfh0j/2022_07_14_15_44_38```
 
 此目录下文件：2022_07_14_15_44_38.json
 
-`{
+```json 
+{
   "paid_date": "",
   "create_date": "2022_07_14_15_44_38",
   "to_address": "",
@@ -55,7 +56,7 @@ run.sh
   ],
   "paid_ada_amount": 0,
   "has_paid": false
-}`
+}```
 
 
 
